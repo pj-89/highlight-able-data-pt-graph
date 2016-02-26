@@ -1,5 +1,5 @@
 # highlight-able-data-pt-graph
-P5.js
+* P5.js
 Graph with data points that can be dragged to find pos/neg trend
 
 Graph scales according to how many data points you put in
